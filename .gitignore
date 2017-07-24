@@ -1,3 +1,6 @@
+# Intelli J idea
+.idea/
+
 # These are made from the commands 'elm package install' and 'npm install' respectively
 elm-stuff
 dev/elm-stuff
